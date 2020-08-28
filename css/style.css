@@ -1,0 +1,60 @@
+body {
+    font-family: arial;
+}
+
+.main-header {
+    background-color: #c9d6ff;
+    text-align: center;
+    padding: 2em;
+}
+.sub-header {
+    padding: 1px 50px
+}
+
+.main-container {
+    margin: 10px 50px 5px 50px;
+    display: flex;
+}
+
+.test {
+    border: solid;
+    width: 20em
+}
+
+.title {
+    font-size: 2em
+}
+
+p {
+    font-size: .75em
+}
+
+.myCard {
+    display: flex
+}
+
+.button {
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+}
+
+.main-image {
+    margin-left: 50px
+}
+
+.fp-image {
+    margin-left: 20px;
+}
+
+.reason {
+    margin: 20px;
+}
+.sub-title {
+    margin-left: 20px;
+    color: #1B1A1A;
+}
+
+.last-reason {
+    padding-bottom: 70px
+}
